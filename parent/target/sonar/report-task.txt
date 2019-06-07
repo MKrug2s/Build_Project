@@ -1,0 +1,6 @@
+projectKey=com.axxessio.axx2cld:parent
+serverUrl=http://localhost:9000
+serverVersion=7.7.0.23042
+dashboardUrl=http://localhost:9000/dashboard?id=com.axxessio.axx2cld%3Aparent
+ceTaskId=AWssxPc6YaqRwGS9PIbm
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWssxPc6YaqRwGS9PIbm
